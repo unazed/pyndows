@@ -1,0 +1,17 @@
+{
+  "_UNICODE_STRING":
+    {
+      "fields":
+        [
+          ["Length", "USHORT"],
+          ["MaximumLength", "USHORT"],
+          ["Buffer", "PWSTR"]
+        ],
+      "aliases":
+        [
+	  "UNICODE_STRING",
+	  "*PUNICODE_STRING",
+	  "*PCUNICODE_STRING"
+	]
+    }
+}
